@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maryamshahbaz606-afk.github.io/sitemap.xml
